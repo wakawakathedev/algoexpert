@@ -4,11 +4,11 @@ This serves as a repository for working through algo expert.
 
 ### Aims
 
-[ ] Typescript
-[ ] Kotlin
-[ ] Swift
-[ ] Go
-[ ] Python
+- [ ] Typescript
+- [ ] Kotlin
+- [ ] Swift
+- [ ] Go
+- [ ] Python
 
 ### Development Setup
 
